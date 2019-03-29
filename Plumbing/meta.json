@@ -1,0 +1,177 @@
+[
+    {    
+        "parent": "947322239b13ea1e7705981f41f4b40980788e2b",
+        "time": "978336793 +0200",
+        "comment": "Roll a 1d9 dice and append the result to flag.txt",
+        "range": 11,
+        "hash":"5ad2edefc55627010c4087311552a7cbafc0d65c"
+    },
+    {    
+        "parent": "5ad2edefc55627010c4087311552a7cbafc0d65c",
+        "time": "978336793 +0200",
+        "comment": "Repeat",
+        "range": 11,
+        "hash": "6947e4006a49f143335283e54de4ea389e95c650"
+    },
+    {    
+        "parent": "6947e4006a49f143335283e54de4ea389e95c650",
+        "time": "978336793 +0200",
+        "comment": "Repeat",
+        "range": 11,
+        "hash": "67779fe522e1474df1e17fe6949a01f1e7d3a334"
+    },
+    {    
+        "parent": "67779fe522e1474df1e17fe6949a01f1e7d3a334",
+        "time": "978336793 +0200",
+        "comment": "Repeat",
+        "range": 11,
+        "hash": "3b725ced47645c0fb10768875f28fdd799cedf00"
+    },
+    {    
+        "parent": "3b725ced47645c0fb10768875f28fdd799cedf00",
+        "time": "1086081193 +0300",
+        "comment": "Upgrade to a 1d100 dice",
+        "range": 101,
+        "hash": "4d028d80fdb5ff431f223dddde8553118e4e6c92"
+    },
+    {    
+        "parent": "4d028d80fdb5ff431f223dddde8553118e4e6c92",
+        "time": "1086081193 +0300",
+        "comment": "Repeat",
+        "range": 101,
+        "hash": "1e7415918473a562a6a9628625f4bd8f0c27e5d8"
+    },
+    {    
+        "parent": "1e7415918473a562a6a9628625f4bd8f0c27e5d8",
+        "time": "1086081193 +0300",
+        "comment": "Repeat",
+        "range": 101,
+        "hash": "c343098a444c337e05c220136400c02b011e5167"
+    },
+    {    
+        "parent": "c343098a444c337e05c220136400c02b011e5167",
+        "time": "1086081193 +0300",
+        "comment": "Repeat",
+        "range": 101,
+        "hash": "1b7d094b5b1e8d0de5e44305d531fc8563956cfd"
+    },
+    {    
+        "parent": "1b7d094b5b1e8d0de5e44305d531fc8563956cfd",
+        "time": "1352185993 +0200",
+        "comment": "Upgrade to a virtual 1d10000000 dice (with a hardware random number generator)",
+        "range": 10000001,
+        "hash": "8fee3b142a9b4e596d9c2dbbf090cc1b1c3ffe13"
+    },
+    {    
+        "parent": "8fee3b142a9b4e596d9c2dbbf090cc1b1c3ffe13",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "3fc085a8e6db34df56485b09fadfec26f216c068"
+    },
+    {    
+        "parent": "3fc085a8e6db34df56485b09fadfec26f216c068",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "701342354a2566948f91a1e4435e702d8de0e9b8"
+    },
+    {    
+        "parent": "701342354a2566948f91a1e4435e702d8de0e9b8",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "9986487648fd8d3cfd94235ae7454c8179fcc0f2"
+    },
+    {    
+        "parent": "9986487648fd8d3cfd94235ae7454c8179fcc0f2",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "8e8ce710cd519f9bcdc1e4ee81310a37c9674b36"
+    },
+    {    
+        "parent": "8e8ce710cd519f9bcdc1e4ee81310a37c9674b36",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "a69bac100fcae58985ecc6d161e5a92eed82d110"
+    },
+    {    
+        "parent": "a69bac100fcae58985ecc6d161e5a92eed82d110",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "26a8029d53a4c82b20e558b5a6b53d473c5acd74"
+    },
+    {    
+        "parent": "26a8029d53a4c82b20e558b5a6b53d473c5acd74",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "10b399705f396fcca0f87d3abc083947be5cdf53"
+    },
+    {    
+        "parent": "10b399705f396fcca0f87d3abc083947be5cdf53",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "6e0479b711ffcccfce6f291d5e6f27a25d5617db"
+    },
+    {    
+        "parent": "6e0479b711ffcccfce6f291d5e6f27a25d5617db",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "79bf22e4098fa7c2e3b0ac3a0e31aa8f48fe5cbb"
+    },
+    {    
+        "parent": "79bf22e4098fa7c2e3b0ac3a0e31aa8f48fe5cbb",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "c5e6056221284b2c5e5c6128e7063da816a5c504"
+    },
+    {    
+        "parent": "c5e6056221284b2c5e5c6128e7063da816a5c504",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "47404fe04810785280b2de0c9d3f11884a65a735"
+    },
+    {    
+        "parent": "47404fe04810785280b2de0c9d3f11884a65a735",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "757ebe8bdb4029613c3f04747a8e8bf2f7aa43fc"
+    },
+    {    
+        "parent": "757ebe8bdb4029613c3f04747a8e8bf2f7aa43fc",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "1f9e276648617c139c86826bca046d2d58bf3da7"
+    },
+    {    
+        "parent": "1f9e276648617c139c86826bca046d2d58bf3da7",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "484157c11918569278e496fda7e201d57d3bc6d6"
+    },
+    {    
+        "parent": "484157c11918569278e496fda7e201d57d3bc6d6",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "1ecf0ed731df5611f763ecbd95b6d040a2d0a96b"
+    },
+    {    
+        "parent": "1ecf0ed731df5611f763ecbd95b6d040a2d0a96b",
+        "time": "1352185993 +0200",
+        "comment": "Repeat",
+        "range": 10000001,
+        "hash": "8b7ea16b59319c1ff33ed9848364580657860081"
+    }
+]
