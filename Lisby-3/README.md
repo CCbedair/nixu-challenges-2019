@@ -1,4 +1,4 @@
-# The solution for "Device Control Pwnel" challenge.
+# The solution for "Lisby-3" challenge.
 
 ## Step
 1. Using our decomiler we again dump the assembly and take a look a it. It seems there are a lot more functions in this one. ![decompile](0.png)
