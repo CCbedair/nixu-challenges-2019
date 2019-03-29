@@ -1,4 +1,4 @@
-# The solution for "Device Control Pwnel" challenge.
+# The solution for "Lisby 2" challenge.
 
 ## Step
 1. Using our code from Lisby-1 we decompile the program and look at the assembly.
