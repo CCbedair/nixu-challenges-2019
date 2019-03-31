@@ -1,4 +1,4 @@
-# The solution for "Device Control Pwnel" challenge.
+# The solution for "Device Control Pwnel-2" challenge.
 
 ## Step
 1. We download the file and extract it. Then we see 2 files: source code and L64 bit binary. The device binary is interesting.
